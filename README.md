@@ -1,5 +1,5 @@
  preview
-<h1 align="center">Hi 👋, I'm JAy</h1>
+<h1 align="center">Hi 👋, I'm Jay</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 
 - 🔭 I’m currently working on [Jay's Shop](https://a510102.github.io/shop-react/home)
